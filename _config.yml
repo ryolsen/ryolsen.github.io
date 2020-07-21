@@ -1,3 +1,5 @@
-theme: jekyll-theme-time-machine
+git clone https://github.com/h01000110/windows-95.git
+
+theme: jekyll-theme-windows-95
 title: OmegaRares
 description: Feel free to browse!
