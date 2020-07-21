@@ -1,5 +1,25 @@
-git clone https://github.com/h01000110/windows-95.git
+permalink: /:year:month:day/:title
+url: #Your url here
+baseurl: /project
 
-theme: jekyll-theme-windows-95
-title: OmegaRares
-description: Feel free to browse!
+# variables
+name: Your Site Name
+description: Your description here
+google_verification: null
+
+
+# File management
+include: [".htaccess"]
+exclude: ["README.md", "LICENSE"]
+
+# Sass
+sass:
+  style: :compressed
+  sass_dir: _sass
+
+# Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    disable : true
