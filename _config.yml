@@ -1,3 +1,3 @@
-remote_theme: windows-95
-git clone https://github.com/h01000110/windows-95.git
+theme: jekyll-theme-time-machine
 title: OmegaRares
+description: Hello and welcome!
