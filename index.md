@@ -1,7 +1,7 @@
 ## Welcome
 
 Below you will find a "blog" of sorts about many of works.  I will attempt to document various things like composition, goals and intents, as well as lessons learned. This is meant to be an ever evolving project, as some projects will be in progress.
-`<addr>`
+
 
 ### Markdown
 
