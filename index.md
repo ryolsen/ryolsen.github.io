@@ -3,6 +3,8 @@
 Below you will find a "blog" of sorts about many of works.  I will attempt to document various things like composition, goals and intents, as well as lessons learned. This is meant to be an ever evolving project, as some projects will be in progress.
 
 
+<img src="19296_en_1.jpg">
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
