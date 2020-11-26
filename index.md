@@ -1,7 +1,25 @@
-## Art Blog
+# Soft Art
 
 Below you will find a "blog" of sorts about many of works.  I will attempt to document various things like composition, goals and intents, as well as lessons learned. This is meant to be an ever evolving project, as some projects will be in progress.
 
+## Completed Porjects
+
+# Untitled (Balance)
+# Dinosaur
+# Triple 7's
+# Slices
+
+
+## Works in Progress
+
+# Desk (Four Seasons)
+# Spice Racks
+# Ducks
+
+## Archive
+
+# Lamp
+# Mask
 
 <img src="19296_en_1.jpg">
 
