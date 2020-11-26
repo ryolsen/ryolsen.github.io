@@ -4,22 +4,22 @@ Below you will find a "blog" of sorts about many of works.  I will attempt to do
 
 ## Completed Porjects
 
-# Untitled (Balance)
-# Dinosaur
-# Triple 7's
-# Slices
+### Untitled (Balance)
+### Dinosaur
+### Triple 7's
+### Slices
 
 
 ## Works in Progress
 
-# Desk (Four Seasons)
-# Spice Racks
-# Ducks
+### Desk (Four Seasons)
+### Spice Racks
+### Ducks
 
 ## Archive
 
-# Lamp
-# Mask
+### Lamp
+### Mask
 
 <img src="19296_en_1.jpg">
 
