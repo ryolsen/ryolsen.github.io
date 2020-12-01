@@ -1,5 +1,6 @@
 # Soft Art
 
+Note: This page is a work in progress, check back for updates!
 Below you will find a "blog" of sorts about many of works.  I will attempt to document various things like composition, goals and intents, as well as lessons learned. This is meant to be an ever evolving project, as some projects will be in progress.
 
 ## Completed Projects
